@@ -7,6 +7,7 @@ Welcome to the repository for **Computational Geophysics**. This project contain
 This repository serves as both a personal study log and a reference collection of algorithms used in various areas of **computational geophysics**, such as:
 
 - 1D Heat Conduction
+- 2D Heat Conduction
 
 Each notebook provides detailed explanations, derivations, and implementations designed for transparency and learning.
 
