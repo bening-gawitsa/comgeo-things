@@ -19,4 +19,4 @@ Special thanks to the developers of open-source geophysical and numerical librar
 
 
 ## 📬 Contact
-If you have questions or want to discuss computational geophysics, please don't hesitate to reach out to me via GitHub issues or email: beninggawitsa37[at]gmail.com. Let's collaborate and learn together!
+If you have questions or want to discuss computational geophysics, please don't hesitate to reach out to me via GitHub issues or email: beninggawitsa37@gmail.com. Let's collaborate and learn together!
