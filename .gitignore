@@ -1,0 +1,3 @@
+# Seismic data
+data/*.segy
+data/*.sgy
